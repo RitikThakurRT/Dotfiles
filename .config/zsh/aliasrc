@@ -139,3 +139,6 @@ alias 85="xrandr  --output  eDP-1  --brightness .85"
 alias 90="xrandr  --output  eDP-1  --brightness .9"
 alias 95="xrandr  --output  eDP-1  --brightness .95"
 alias 100="xrandr  --output  eDP-1  --brightness 1"
+
+#Open pdf
+alias open='xdg-open'
