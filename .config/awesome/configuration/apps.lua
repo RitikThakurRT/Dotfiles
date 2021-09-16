@@ -17,7 +17,7 @@ return {
     delayed_screenshot = 'flameshot screen -p ~/Pictures -d 5000',
     browser = 'brave',
     editor = 'code', -- gui text editor
-    social = 'whatsdesk',
+    social = 'whatsapp',
     game = rofi_command,
     files = 'Thunar',
     music = 'spotify',
