@@ -28,7 +28,7 @@ export EDITOR=vim
 # alias vim="nvim"
 
 alias pacman-update='sudo pacman-mirrors --geoip'
-alias upgrade='sudo pacman -Syyu && yay -Syyu && sudo snap refresh'
+alias upgrade='sudo pacman -Syyu && yay -Syyu '
 
 # bat
 alias cat='bat'

@@ -17,7 +17,7 @@ return {
     delayed_screenshot = 'flameshot screen -p ~/Pictures -d 5000',
     browser = 'brave',
     editor = 'code', -- gui text editor
-    social = 'whatsapp-nativefier',
+    social = 'whatsapp-nativefier-dark',
     game = rofi_command,
     files = 'Thunar',
     music = 'spotify',
