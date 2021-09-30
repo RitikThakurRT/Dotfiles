@@ -18,7 +18,7 @@ return {
     browser = 'brave',
     editor = 'code', -- gui text editor
     social = 'whatsapp-nativefier-dark',
-    game = rofi_command,
+    game = 'discord',
     files = 'Thunar',
     music = 'spotify',
     any='zoom'
